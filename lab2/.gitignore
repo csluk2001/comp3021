@@ -1,0 +1,17 @@
+# Ignore Gradle files
+.gradle/
+build/
+
+# Ignore Gradle wrapper properties file
+gradle-wrapper.properties
+
+# Ignore IntelliJ IDEA files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore Eclipse files
+.settings/
+.classpath
+.project
