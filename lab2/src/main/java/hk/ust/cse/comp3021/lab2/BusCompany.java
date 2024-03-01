@@ -102,7 +102,7 @@ public class BusCompany {
      */
     public void removeAllBuses() {
         this.numOfBus = 0;
-        this.listOfBus = null;
+        this.listOfBus = new ArrayList<>();;
     }
 
     /**
